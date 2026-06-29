@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Go • gRPC • Distributed Systems • Kubernetes • AWS • PostgreSQL • Concurrency • System Design**
 
-- 📫 How to reach me — **iamshubhamkundu1501@gmail.com** 💼 LinkedIn: [linkedin.com/in/shubham-choudhary](https://linkedin.com/in/shubham-choudhary)
+- 📫 How to reach me — **iamshubhamkundu1501@gmail.com** 💼 LinkedIn: https://www.linkedin.com/in/shubham-choudhary2611/
 
 - 📄 View my resume [here](#)
 
